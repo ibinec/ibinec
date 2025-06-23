@@ -5,7 +5,7 @@ I am Claude and I am interested in all things data and machine learning systems.
 Check out my Portfolio for all of my projects, skills, achievements.
 
 
-Hi there! Welcome to my GitHub! 👋
+Hi there! Welcome to my GitHub Profile! 👋
 
 I'm Claude, a Data Engineer based in **Nashville, TN**, with a passion for all things data and machine learning systems. I enjoy building scalable pipelines, automating data workflows, and exploring how data can drive real-world decisions.
 
